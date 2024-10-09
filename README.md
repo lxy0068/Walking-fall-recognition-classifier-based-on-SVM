@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to classify images using a Support Vector Machine (SVM) classifier. The project includes scripts for feature extraction from images and predicting their classes based on these features. It uses techniques such as SURF (Speeded-Up Robust Features), HOG (Histogram of Oriented Gradients), and GLCM (Gray Level Co-occurrence Matrix) to generate a feature set for image classification.
+This project aims to classify images using a Support Vector Machine (SVM) classifier. The project includes scripts for feature extraction from images and predicting their classes based on these features. It uses techniques such as SURF (Speeded-Up Robust Features), HOG (Histogram of Oriented Gradients), and GLCM (Gray Level Co-occurrence Matrix) to generate a feature set for image classification.(2023)(Business)
 
 ## Files in the Project
 
